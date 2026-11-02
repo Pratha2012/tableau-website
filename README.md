@@ -266,10 +266,9 @@ Institution: Medi-Caps University, Indore.
 
 Project: Electric Vehicle Market Analysis Using Tableau.
 
-Website: https://ev-market-analysis-1xst.onrender.com
+Website: https://tableau-website-2.onrender.com
 
-GitHub: https://github.com/en25cs3010568-svg/EV-Market-Analysis
-
+GitHub: https://github.com/Pratha2012/tableau-website
 ### D. Use accurate technical details
 
 Clearly distinguish between:
